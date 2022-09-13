@@ -1,3 +1,12 @@
 要commit,push
-在本機端改
+PULL室東西拉下來
+在本機端(地端)改東西上傳雲端
+
+做網只記得去setting active
 網址：https://huwalli.github.io/Web/startbootstrap-agency-gh-pages/
+
+地端跟雲端要分清楚
+程式碼不懂的去HTML Tables查
+
+
+
