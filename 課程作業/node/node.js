@@ -1,7 +1,7 @@
-const http=require('https')
-const port=3000
+const http=require('https');
+const port=3000;
 
-const server=http.createServer
+const server=http.createServer;
 (function(req,res){
 
 
