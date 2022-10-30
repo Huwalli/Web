@@ -16,6 +16,7 @@
     <br />[1004yt影片](https://youtu.be/TSMQfnXR85Q)
     <br />[1018yt影片](https://www.youtube.com/watch?v=pI2-Fc5GPRw)
     <br />[1029_lab1](https://youtu.be/Uq8qo96vyV4)
+    <br />[1029_lab2](https://youtu.be/cmskI5-b1r8)
 
 * 專題連結區
     <br />  
